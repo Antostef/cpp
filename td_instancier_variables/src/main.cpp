@@ -19,5 +19,6 @@ int main(int argc, char *argv[]) {
 	double d = 1.75;
 	unsigned int ui = 200;
 
+	
 	std::cout << nom+" " << c << " " << i << " " << b << " " << f << " " << f << " " << d << " " << ui << std::endl;
 }
